@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
   
-  s.name         = "GHFunctionCode"  
+  s.name         = "GHFunctionCodeFrameWork"  
   s.version      = "0.1"  
   s.summary      = "A similar py code for Objctive-C."  
   s.homepage     = "https://github.com/900116/GHFunctionCodeFrameWork.git"  
